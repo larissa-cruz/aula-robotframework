@@ -1,0 +1,14 @@
+1664571689314	geckodriver	INFO	Listening on 127.0.0.1:62501
+1664571692394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62502" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\017548~1\\AppData\\Local\\Temp\\rust_mozprofile7hwDo7"
+1664571692873	Marionette	INFO	Marionette enabled
+1664571692878	Marionette	INFO	Listening on port 62512
+WebDriver BiDi listening on ws://localhost:62502
+Read port: 62512
+1664571693057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\017548~1\\AppData\\Local\\Temp\\rust_mozprofile7hwDo7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62502/devtools/browser/9e4b7357-f855-40a9-a0f3-505a92214fc6
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+1664571699689	Marionette	INFO	Stopped listening on port 62512
